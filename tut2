@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+<title>bookworm</title>
+    </head>
+
+<body>
+
+    <header role="banner">
+        <h1>a young reader</h1>
+        <p>a liitle girl who found solace in novels</p>
+    </header>
+
+    <nav>
+
+        <ul>
+            <li><a href="#">wattpad</a></li>
+            <li><a href="#">kindle</a></li>
+            <li><a href="#">libray</a></li>
+        </ul>
+
+    </nav>
+
+    <article>
+        <section>
+            <p>reading benefits on young childred</p>
+        </section>
+    </article>
+
+    <aside>
+        <p>i hope yu have learned something</p>
+    </aside>
+
+    <figure align="right">
+        <img src="/little/girl/reading/book/with/butterfly/cover/657423-89.jpg" height="100"> 
+    </figure>
+
+    <footer>
+        <p>created by <a href="#">Anonymous</a></p>
+    </footer>
+
+    </body>
+</html>
